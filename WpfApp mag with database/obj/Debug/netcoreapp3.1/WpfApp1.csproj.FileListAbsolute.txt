@@ -1,0 +1,71 @@
+S:\ИС-310\практика\1 день\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.csproj.AssemblyReference.cache
+S:\ИС-310\практика\1 день\WpfApp1\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+S:\ИС-310\практика\1 день\WpfApp1\obj\Debug\netcoreapp3.1\App.g.cs
+S:\ИС-310\практика\1 день\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1_MarkupCompile.cache
+S:\ИС-310\практика\1 день\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1_MarkupCompile.lref
+S:\ИС-310\практика\1 день\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.exe
+S:\ИС-310\практика\1 день\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.deps.json
+S:\ИС-310\практика\1 день\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.runtimeconfig.json
+S:\ИС-310\практика\1 день\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.runtimeconfig.dev.json
+S:\ИС-310\практика\1 день\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.dll
+S:\ИС-310\практика\1 день\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.pdb
+S:\ИС-310\практика\1 день\WpfApp1\obj\Debug\netcoreapp3.1\MainWindow.baml
+S:\ИС-310\практика\1 день\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.g.resources
+S:\ИС-310\практика\1 день\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+S:\ИС-310\практика\1 день\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.AssemblyInfoInputs.cache
+S:\ИС-310\практика\1 день\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.AssemblyInfo.cs
+S:\ИС-310\практика\1 день\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.csproj.CoreCompileInputs.cache
+S:\ИС-310\практика\1 день\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.dll
+S:\ИС-310\практика\1 день\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.pdb
+S:\ИС-310\практика\1 день\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.genruntimeconfig.cache
+C:\Users\student\Downloads\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\student\Downloads\WpfApp1\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\student\Downloads\WpfApp1\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\student\Downloads\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1_MarkupCompile.cache
+C:\Users\student\Downloads\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1_MarkupCompile.lref
+C:\Users\student\Downloads\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.dll
+C:\Users\student\Downloads\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.pdb
+C:\Users\student\Downloads\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.exe
+C:\Users\student\Downloads\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.deps.json
+C:\Users\student\Downloads\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.runtimeconfig.json
+C:\Users\student\Downloads\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.runtimeconfig.dev.json
+C:\Users\student\Downloads\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.dll
+C:\Users\student\Downloads\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.pdb
+C:\Users\student\Downloads\WpfApp1\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\student\Downloads\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.g.resources
+C:\Users\student\Downloads\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Downloads\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.AssemblyInfoInputs.cache
+C:\Users\student\Downloads\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.AssemblyInfo.cs
+C:\Users\student\Downloads\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\student\Downloads\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.genruntimeconfig.cache
+C:\Users\student\Downloads\WpfApp1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\student\Downloads\WpfApp1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\student\Downloads\WpfApp1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\student\Downloads\WpfApp1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\student\Downloads\WpfApp1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\student\Downloads\WpfApp1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\student\Downloads\WpfApp1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\student\Downloads\WpfApp1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\student\Downloads\WpfApp1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\student\Downloads\WpfApp1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\student\Downloads\WpfApp1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\student\Downloads\WpfApp1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\student\Downloads\WpfApp1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\student\Downloads\WpfApp1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\student\Downloads\WpfApp1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\student\Downloads\WpfApp1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\student\Downloads\WpfApp1\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\student\Downloads\WpfApp1\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\student\Downloads\WpfApp1\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\student\Downloads\WpfApp1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\student\Downloads\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.csproj.CopyComplete
+C:\Users\student\Downloads\WpfApp1\obj\Debug\netcoreapp3.1\AddWindow.g.cs
+C:\Users\student\Downloads\WpfApp1\obj\Debug\netcoreapp3.1\Dobavit.g.cs
+C:\Users\student\Downloads\WpfApp1\obj\Debug\netcoreapp3.1\EditWindow.g.cs
+C:\Users\student\Downloads\WpfApp1\obj\Debug\netcoreapp3.1\Redach.g.cs
+C:\Users\student\Downloads\WpfApp1\obj\Debug\netcoreapp3.1\AddWindow.baml
+C:\Users\student\Downloads\WpfApp1\obj\Debug\netcoreapp3.1\Dobavit.baml
+C:\Users\student\Downloads\WpfApp1\obj\Debug\netcoreapp3.1\EditWindow.baml
+C:\Users\student\Downloads\WpfApp1\obj\Debug\netcoreapp3.1\Redach.baml
+C:\Users\student\Downloads\WpfApp1\obj\Debug\netcoreapp3.1\AboutPage.g.cs
+C:\Users\student\Downloads\WpfApp1\obj\Debug\netcoreapp3.1\AboutPage.baml

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="css/style.css">
+	<title>Заявление на получение визы</title>
+</head>
+<body>
+	<form action="#" method="post" oninput="daysoutput.value=dascount.value">
+		<fieldset>
+			<legend>Заявление на получение визы</legend>
+			<div>
+				<label for="passport">Номер котопаспорта</label>
+				<input type="text" name="passport" id="passport" placeholder="Формат номера XXX-XXXXX" autocomplete="off" pattern="[0-9]{3}-[0-9]{5}" required>
+			</div>
+
+			<div>
+				<label for="tel">Номер телефона</label>
+				<input type="tel" name="tel" id="tel" pattern="[0-9]{1}-[0-9]{3}-[0-9]{3}" placeholder="Формат номера X-XXX-XXX" tabindex="2" required>
+			</div>
+
+			<div class="half-width">
+				<label for="email">Email</label>
+				<input type="email" name="email" id="email" required autocomplete="on" tabindex="3">
+			</div>
+
+			<div class="half-width">
+				<label for="url">Личный сайт</label>
+				<input type="url" name="url" id="url" required readonly>
+			</div>
+
+			<div class="one-third-width">
+				<label for="color">Окрас</label>
+				<input type="color" name="color" id="color">
+			</div>
+
+			<div class="two-third-width">
+				<label for="food" tabindex="1">Любимая еда</label>
+				<select name="food" id="food">
+					<optgroup label="Любимая еда" >
+						<option value="1" selected>Мясо</option>
+						<option value="2">Рыба</option>
+						<option value="3">Торт</option>
+					</optgroup>
+					<optgroup label="Нелюбимая еда">
+						<option value="4">Каша</option>
+						<option value="5">Чипсы</option>
+					</optgroup>
+				</select>
+			</div>
+		</fieldset>	
+		<div class="buttons">
+			<input type="submit" value="Оформить">
+		</div>
+	</form>
+</body>
+</html>

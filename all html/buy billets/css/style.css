@@ -1,0 +1,25 @@
+fieldset{
+	padding: 10px;
+	border-radius: 5px;
+	border: 1px solid black;
+}
+
+form {
+	width: 300px;
+	margin: 0 auto;
+	padding: 20px;
+	background-color: #f0f0ec;
+	border-radius: 10px;
+}
+
+input[type="submit"] {
+	display: inline-block;
+	width: auto;
+	height: auto;
+	margin: 0 5px;
+	padding: 6px 15px;
+	color: #ffffff;
+	background-color: #ff5b32;
+	border: none;
+	border-radius: 5px;
+}

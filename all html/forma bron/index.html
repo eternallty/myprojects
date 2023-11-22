@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="css/style.css">
+	<title>Форма бронирования</title>
+</head>
+<body>
+	<form action="#" method="post" oninput="daysoutput.value=dascount.value">
+		<fieldset>
+			<legend>Поиск отеля</legend>
+			<div>
+				<label for="search">Название города</label>
+				<input type="search" name="search" id="search" value="Осло, Норвегия" autofocus>
+			</div>
+
+			<div class="one-third-width">
+				<label for="num">Число</label>
+				<input type="number" name="day" id="num" min="1" max="31" value="17">
+			</div>
+
+			<div class="two-third-width">
+				<label for="mon">Месяц</label>
+				<input type="month" name="month" id="mon" value="2014-09">
+			</div>
+
+			
+			<div class="half-width">
+				<label for="rang">
+					Количество дней
+				</label>
+					1 <input type="range" class="half-width" name="dascount" id="rang" min="1" max="14" step="1"> 14
+				</label>
+			</div>
+			<div class="half-width output-area"> 
+				
+				<output name="daysoutput"> 7 </output>
+			</div>
+			
+			<div class="buttons">
+				<input type="submit" value="Забронировать">
+			</div>
+		</fieldset>	
+	</form>
+</body>
+</html>

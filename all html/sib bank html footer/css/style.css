@@ -1,0 +1,107 @@
+body{
+	
+	font-family: "Roboto","Arial", sans-serif;
+	font-style: normal;
+	min-width: 1366px;
+	max-width: 1400px;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 19px;
+	color: #1C1C1C;
+	background: #E5E5E5;
+}
+
+dt{
+	font-weight: 500;
+	font-size: 20px;
+	line-height: 23px;
+	margin: 0;
+	padding-left: 3px;
+	margin-bottom: 20px;
+}
+
+.footer-bottom{
+	display: flex;
+	padding-top: 5px;
+	grid-column: span 2;
+	justify-content: space-between;
+	font-size: 12px;
+	line-height: 14px;
+}
+
+.footer{
+	display: grid;
+	margin-left: 25px;
+	padding-top: 50px;
+	padding-left: 104px;
+	padding-right: 104px;
+	grid-template-columns: auto 1fr;
+	grid-template-rows: auto auto;
+	row-gap: 37px;
+	column-gap: 112px;
+}
+
+.visually-hidden{
+	display: flex;
+	visibility: hidden;
+	clip: rect(1px, 1px, 1px, 1px);
+	padding: 0;
+	border: 0;
+	height: 1px;
+	width: 1px;
+	overflow: hidden;
+}
+
+.footer-nav{
+	display: grid;
+
+	grid-template-columns: repeat(4, auto);
+	margin-top: 10px;
+	margin-bottom: 0;
+	justify-content: space-between;
+	
+}
+
+ul{
+	list-style: none;
+	padding-left: 0;
+	padding-bottom: 0;
+}
+
+li{
+	margin-bottom: 15px;
+}
+
+dd{
+	margin-left: 3px;
+}
+
+img{
+	max-width: 100%;
+}
+
+a{
+	text-decoration: none;
+	color: #1C1C1C;
+}
+
+.privacy{
+	margin-right: -3px;
+	grid-column: 2;
+	grid-row: 2;
+}
+
+.phone-text{
+	font-weight: 400;
+	font-size: 12px;
+	line-height: 14px;
+	margin: 0 auto;
+}
+
+.phone-number{
+	font-weight: 500;
+	font-size: 20px;
+	line-height: 23px;
+	margin-bottom: 5px;
+	margin-top: 15px;
+}
